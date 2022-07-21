@@ -1,4 +1,4 @@
-# <div style="text-align: center">Hi 👋🏻, I'm **Ken** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
+# <div style="text-align: center">Hi 👋🏻, I'm **Gladys** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
 ## <center> I'm a **Data Nerd  :octocat: and a  Tech enthusiastic **  **:penguin: Enthusiast** </center>
 
 - 💻 I’m currently specializing on <u>**Data analisys **</u> and learning <u>**ML**📱.</u>
