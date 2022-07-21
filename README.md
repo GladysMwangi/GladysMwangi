@@ -1,7 +1,7 @@
 # <div style="text-align: center">Hi 👋🏻, I'm **Gladys** <img src="giphy.gif" height="25" width="30"><img src="kenya.gif" height="30" width="30" align ="right"> </div>
 ## <center> I'm a **Data Nerd  :octocat: and a  Tech enthusiastic **  **:penguin: Enthusiast** </center>
 
-- 💻 I’m currently specializing on <u>**Data analisys **</u> and learning <u>**ML**📱.</u>
+- 💻 I’m currently specializing on <u> **Data analisys**</u> and learning <u>**ML**📱.</u>
 
 - 📖 Long story short:
 
@@ -16,14 +16,14 @@ Here are a few things I've picked up along my learning journey.
 - #### OS
   ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
   ✧![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux&)&nbsp;
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+  ✧![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
   
 
 - #### ✧ Programming languages and Database.
 
   ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=red)&nbsp;
-  ![R])https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
-  ✧![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
+  ✧![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+  ![JS](https://img.shields.io/badge/-Express%20Js-05122A?style=FLAT&logo=node&logoColor=FFA518)&nbsp;
   ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
   ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;  
   ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=social&logo=HTML5)&nbsp;
@@ -37,7 +37,7 @@ Here are a few things I've picked up along my learning journey.
 
 - #### Analystics  tools
   ![Google Analystics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)&nbsp;
-  ![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
+  ✧![Tableu](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)&nbsp;
   ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=social&logo=HTML5)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-05122A?style=social&logo=CSS3)&nbsp;
 
